@@ -20,3 +20,6 @@ a year or the maximum expenses in all the data.
 - [ ] Declare an expense item.
 - [ ] Declare an income item.
 - [ ] Command parser in the terminal.
+
+- [ ] <img width="2337" height="1338" alt="image" src="https://github.com/user-attachments/assets/1db2821c-c550-4e7d-a75b-bd65dd9cbc37" />
+
